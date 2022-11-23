@@ -4,7 +4,7 @@
 - 😄 Pronouns: he/his
 <br />
 <div align="center">
-  <img height="350em" src="https://github.com/AlexandreRCP/ad-calc-reactJS/blob/main/assets/Visual%20Studio%20Code%20-%20App.js%20-%20calc-react.gif"/>
+  <img height="350em" src="https://github.com/AlexandreRCP/ad-calc-reactJS/blob/main/src/assets/Visual%20Studio%20Code%20-%20App.js%20-%20calc-react.gif"/>
   <br />
   <br />
   <img align="center" alt="Alex-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
